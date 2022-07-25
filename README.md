@@ -33,9 +33,9 @@
 - MariaDB
 
 **BlockChain - Ethereum**
-- Solidity 0.4.22 < 0.9.0
-- openzeppelin/contracts
-- Truffle
+- Solidity 0.8.0
+- openzeppelin/contracts-upgradeable
+- hardhat
 
 **Storage**
 - IPFS
